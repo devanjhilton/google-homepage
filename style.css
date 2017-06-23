@@ -1,20 +1,19 @@
-
-.sb {
-  position: relative;
-  left: 350px;
-  bottom: 200px;
+body {
+  padding: 0;
+  margin: 0;
+  background-color: white;
 }
 
-.logo {
-  position: relative;
-  left: 200px;
-  top: 100px;
-  height: 206.6px;
-  width: 426.6px;
-  }
-
-.sf {
-  position: relative;
-  left: 200px;
-  bottom: 200px;
+.buttons {
+  display: block;
+  text-align: center;
 }
+.searchbar {
+  display:block;
+  text-align: center;
+}
+.pic {
+  text-align: center;
+  height: 500px;
+  padding: 0;
+  margin: 0;
